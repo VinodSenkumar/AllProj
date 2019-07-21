@@ -1,0 +1,124 @@
+Git - > first install git after that create perticular folder and right click then click git base here so after open a terminal and then type=
+pwd => ls => git --version => git status => git log then clear.
+
+1.type inside terminal touch readme.txt then enter
+2.ls
+3.git status
+4.git log
+5.clear
+6.git init	(this folder going to github)
+7.git status
+8.git log	(while put in git init so create branch but not a commited)
+9.git log
+10.git add readme.txt (adding a local repository so now ready goto the remote)
+11.git status
+12.git commit -m "my first commit from local"(my laptop is direct so no need next step)
+13.then git config --global user.name "VinodSen"
+
+
+------------------------------
+new file create process
+
+touch new.txt
+ls
+git init
+git add new.txt
+clear
+git commit -m "new file added" then enter = if ask who are u so enter
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name" enter
+git log
+git config
+git remote
+git remote add origin <and selected github url is right click and paste> then enter
+git push -u(upload) origin master <then enter then ask pop in your created github password>
+finally check open your account in github then signin file is uploaded.
+
+
+pull
+====
+clone on download click and copy url if any body ask so you can give this url
+
+click dounload zip then downloaded in file and extract.
+
+modified code purpose in your file
+---------------------
+the open file in editplus
+and write first code developer A then save goto terminal where your folder then right click
+type git status
+git add readme.txt(file name)
+git commit -m "second comit" then press enter
+git remote add origin <copy the url your inside account and paste> then enter
+git push -u origin master
+then enter password open pop in
+if give wrong password so then again
+type git push -u origin master then enter
+//complete through terminal
+
+
+
+
+pust the created folder
+====================
+take github in created repository take url click and copy 
+
+create the folder = create file= check git command in upper command
+
+
+===============================================
+open eclipse
+------------
+open window show then other search git and select git repository click on ok
+then under click third icon then copy your url and paste in URI and git installed username and password click next then click master then finish
+so created here my files
+i want java project
+so create java project 
+and GitTraining project name right click then team = share and select project then finish
+now click project name and right click team select commit and then type commit msg <empty project commit> only gitignore is select then commit and push after ask username and password then ok
+then go back eclipse project in src create Test class then write simple java program then right click created class name then select team and commit after put username and password then done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+create branch in under master = type git bash(git checkout -b release_first) In master we can create any no. of branch
+
+
