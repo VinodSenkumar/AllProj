@@ -16,7 +16,7 @@ pwd => ls => git --version => git status => git log then clear.
 13.then git config --global user.name "VinodSen"
 
 
-------------------------------
+-----------------------------------
 new file create process
 
 touch new.txt
